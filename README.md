@@ -1,4 +1,4 @@
-# ChunkedChat
+# magicxor/ChunkedChat (not my project, forking so it cannot be deleted like the last ChunkedChat)
 
 This project is a proof-of-concept (PoC) demonstrating a web-based chat application that operates without any client-side JavaScript. It relies on chunked HTML responses to deliver new messages to users in real-time.
 
